@@ -2,7 +2,7 @@
 <img width="400" src="https://www.ankitweblogic.com/javascript/js_img/javascript.png"/>
 </div><br>
 
-
+Ce projet est testé avec BrowserStack 
 # JavaScript-Projects
 
 - This Repository contains basic to advance level JavaScript Projects.
